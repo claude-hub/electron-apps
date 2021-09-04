@@ -1,8 +1,10 @@
 name: Build Pack
+
 on:
   push:
     branches:
-      - master 
+    - main
+
 jobs:
   pack: 
     runs-on: ${{matrix.os}}
@@ -13,11 +15,10 @@ jobs:
     - uses: actions/checkout@v2 
     - name: Install and Pack 
       run: |
-        npm install
-        npm run pack
+        npm run install
+        npm run pack-mac
     - name: Upload file
       uses: actions/upload-artifact@v2
       with:
         name: packs
-        path: |
-          *
+        path: packages/*/dist
