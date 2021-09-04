@@ -22,4 +22,4 @@ jobs:
       with:
         name: packs
         path: |
-          packs/*.dmg
+          packages/**/*.dmg
