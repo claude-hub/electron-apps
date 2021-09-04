@@ -15,5 +15,9 @@
   },
   "devDependencies": {
     "lerna": "^4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/claude-hub/electron-apps.git"
   }
 }
