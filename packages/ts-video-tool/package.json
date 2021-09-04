@@ -1,6 +1,6 @@
 {
   "name": "ts-video-tool",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "lecepin <leping086@vip.qq.com>",
   "description": "ts 格式视频合并转换工具；也可以其他视频格式进行转换使用。",
   "dependencies": {
