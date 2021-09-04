@@ -3,15 +3,15 @@
   "private": true,
   "scripts": {
     "---1---": "--hoist 重复的依赖提取到最外层的 node_modules 里，同时最外层的 package.json 也不会更新 dependency 信息",
-    "install": "lerna bootstrap --hoist",
+    "install": "npx lerna bootstrap --hoist",
     "---2---": "删除所有依赖",
-    "clean": "lerna clean --yes",
+    "clean": "npx lerna clean --yes",
     "---3---": "执行所有目录下的node命令",
-    "run": "lerna exec npm run start",
+    "run": "npx lerna exec npm run start",
     "---4---": "执行所有目录下的package脚本命令",
-    "start": "lerna run start",
+    "start": "npx lerna run start",
     "---5---": "执行打包所有的mac包",
-    "pack-mac": "lerna run pack-mac"
+    "pack-mac": "npx lerna run pack-mac"
   },
   "devDependencies": {
     "lerna": "^4.0.0"
