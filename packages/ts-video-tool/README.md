@@ -11,28 +11,9 @@
 
 ## 下载
 
-目前支持 win-x64 & mac-x64：[地址](https://github.com/lecepin/tss-merge-to-mkv/releases)
+[地址](https://github.com/claude-hub/electron-apps/releases)
 
 ts文件合并工具，同时支持其他视频格式转换原理mkv/ts/mp4
-
-
-## 软件界面
-
-主界面：
-
-![](https://raw.githubusercontent.com/lecepin/tss-merge-to-mkv/master/readme/1.png)
-
-转换成功：
-
-![](https://raw.githubusercontent.com/lecepin/tss-merge-to-mkv/master/readme/5.png)
-
-支持拖动添加文件：
-
-![](https://raw.githubusercontent.com/lecepin/tss-merge-to-mkv/master/readme/3.png)
-
-支持的合并的格式：
-
-![](https://raw.githubusercontent.com/lecepin/tss-merge-to-mkv/master/readme/6.png)
 
 ## 鸣谢
 
