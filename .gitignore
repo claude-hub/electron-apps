@@ -1,4 +1,4 @@
-/node_modules
+node_modules
 lerna-debug.log
 *.lerna_backup
-/package-lock.json
+package-lock.json
