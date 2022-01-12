@@ -3,3 +3,5 @@ lerna-debug.log
 *.lerna_backup
 package-lock.json
 yarn.lock
+lerna-debug.log
+/package/**/package-lock.json

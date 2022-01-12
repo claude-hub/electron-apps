@@ -1,6 +1,6 @@
 {
   "name": "@claude-demo/two",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/claude-hub/electron-apps#readme",
   "license": "ISC",
   "main": "lib/two.js",
