@@ -13,4 +13,4 @@ one();
 
 console.log('---test lock file://');
 
-console.log('npx');
+console.log('npx 1');
