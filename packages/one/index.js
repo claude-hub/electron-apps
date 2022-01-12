@@ -10,3 +10,5 @@ function one() {
 }
 
 one();
+
+console.log('---test lock file://');
