@@ -1,9 +1,12 @@
 'use strict';
+const two = require('@claude-npm/tow');
 
 module.exports = one;
 
 function one() {
     // TODO
     console.log('one');
-    console.log('0.6');
+    two();
 }
+
+one();
