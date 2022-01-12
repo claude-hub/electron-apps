@@ -1,6 +1,6 @@
 {
   "name": "@claude-npm/one",
-  "version": "0.0.12",
+  "version": "1.0.0",
   "homepage": "https://github.com/claude-hub/electron-apps#readme",
   "license": "ISC",
   "main": "index.js",
