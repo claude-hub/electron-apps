@@ -1,6 +1,6 @@
 {
   "name": "@claude-npm/one",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "homepage": "https://github.com/claude-hub/electron-apps#readme",
   "license": "ISC",
   "main": "index.js",
@@ -19,7 +19,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@claude-npm/tow": "^0.0.5",
+    "@claude-npm/tow": "^0.0.6",
     "classnames": "^2.2.6"
   },
   "bugs": {
