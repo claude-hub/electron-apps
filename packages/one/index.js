@@ -11,6 +11,6 @@ function one() {
 
 one();
 
-console.log('---test lock file:// 1212');
+console.log('---test lock file:// 1212 123123');
 
 console.log('npx 1');
